@@ -604,7 +604,7 @@ export default function HomePage() {
           className="bg-green-500 hover:bg-green-600 text-white rounded-full w-14 h-14 shadow-lg animate-bounce-subtle"
           onClick={() =>
             window.open(
-              "https://wa.me/1234567890?text=Hola, me interesa conocer más sobre sus servicios de desarrollo de software",
+              "https://wa.me/934369928?text=Hola, me interesa conocer más sobre sus servicios de desarrollo de software",
               "_blank",
             )
           }
