@@ -163,7 +163,7 @@ export default function HomePage() {
                 <div className="relative">
                   <div className="absolute inset-0 bg-gradient-to-r from-orange-400 to-amber-400 rounded-lg blur-3xl opacity-30 animate-pulse-slow"></div>
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/image1.jpg"
                     width="600"
                     height="400"
                     alt="Desarrollo de Software"
@@ -343,7 +343,7 @@ export default function HomePage() {
               </div>
               <div className="flex items-center justify-center animate-fade-in-right">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/image2.webp"
                   width="600"
                   height="400"
                   alt="Nuestro Equipo"
@@ -447,8 +447,8 @@ export default function HomePage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 mb-4">
-                    "El equipo de DevSolutions transformó completamente nuestro proceso de ventas con un CRM a medida.
-                    Aumentamos nuestra productividad en un 40%."
+                    El equipo de DevSolutions transformó completamente nuestro proceso de ventas con un CRM a medida.
+                    Aumentamos nuestra productividad en un 40%.
                   </p>
                   <div className="flex items-center space-x-2">
                     <div className="w-8 h-8 bg-orange-100 rounded-full flex items-center justify-center">
@@ -473,8 +473,8 @@ export default function HomePage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 mb-4">
-                    "Desarrollaron nuestra landing page y el resultado superó nuestras expectativas. Las conversiones
-                    aumentaron un 60% en el primer mes."
+                    Desarrollaron nuestra landing page y el resultado superó nuestras expectativas. Las conversiones
+                    aumentaron un 60% en el primer mes.
                   </p>
                   <div className="flex items-center space-x-2">
                     <div className="w-8 h-8 bg-orange-100 rounded-full flex items-center justify-center">
@@ -499,8 +499,8 @@ export default function HomePage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 mb-4">
-                    "No solo desarrollaron nuestro software, sino que el mantenimiento y soporte continuo ha sido
-                    excepcional. Siempre disponibles cuando los necesitamos."
+                    No solo desarrollaron nuestro software, sino que el mantenimiento y soporte continuo ha sido
+                    excepcional. Siempre disponibles cuando los necesitamos.
                   </p>
                   <div className="flex items-center space-x-2">
                     <div className="w-8 h-8 bg-orange-100 rounded-full flex items-center justify-center">
